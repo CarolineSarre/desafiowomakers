@@ -1,0 +1,19 @@
+@charset "UtF-8";
+body{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+    text-indent: 100px;
+}
+h2{
+    text-align: center;
+    text-indent: 100px;
+}
+h3{
+    text-align: center;
+}
+p{
+ text-align: justify;
+ text-indent: 100px;
+}   
